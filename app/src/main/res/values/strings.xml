@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ATM Empresa Consultoria</string>
+    <string name="company_description">ATM EmpresaATM Empresa ConsultoriaATM EmpresaConsultoriaATM EmpresaConsultoria ATM Empresa Consultoria ATM Empresa Consultoria ATM Empresa Consultoria ATM Empresa Consultoria ATM Empresa ConsultoriaATM Empresa  ATM Empresa Consultoria ATM Empresa Consultoria ATM Empresa Consultoria Consultoria ATM Empresa ConsultoriaATM Empresa Consultoria ATM Empresa Consultoria ATM Empresa Consultoria ATM Empresa Consultoria ATM Empresa ConsultoriaATM Empresa  ATM Empresa Consultoria ATM Empresa Consultoria ATM Empresa Consultoria Consultoria ATM Empresa ConsultoriaATM Empresa Consultoria ATM Empresa Consultoria ATM Empresa Consultoria ATM Empresa Consultoria ATM Empresa ConsultoriaATM Empresa  ATM Empresa Consultoria ATM Empresa Consultoria ATM Empresa Consultoria Consultoria ATM Empresa ConsultoriaATM Empresa Consultoria ATM Empresa Consultoria ATM Empresa Consultoria ATM Empresa Consultoria ATM Empresa Consultoria</string>
+    <string name="conpany1_name">Empresa de Software</string>
+    <string name="conpany2_name">Empresa de Auditoria</string>
+    <string name="clients">Clientes</string>
+    <string name="company">Empresa</string>
+    <string name="contacts">Contato</string>
+    <string name="services">Serviços</string>
+    <string name="contact_email">Email: atm@consultoria.com</string>
+    <string name="telefone">Telecone: (11) 3334-2544</string>
+    <string name="celular">Celular: (11) 9988-9988</string>
+</resources>
